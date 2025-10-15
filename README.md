@@ -18,8 +18,8 @@ npm start
 
 ### Screenshots
 
-! [Preview](assets/images/main.png)
+![Preview](assets/images/main.png)
 
-! [modal](assets/images/modal.png)
+![modal](assets/images/modal.png)
 
-! [print](assets/images/print.png)
+![print](assets/images/print.png)
