@@ -4,17 +4,22 @@
 
 ### Deployment
 ````
-- git clone git@github.com:johenel/test-plumelo-cocktails-app.git
-- npm install
-- npm start
-- Navigate to localhost:5137 
-or the localhost url that will show on the terminal
+git clone git@github.com:johenel/test-plumelo-cocktails-app.git
+````
+````
+cd test-plumelo-cocktails-app
+````
+````
+npm install
+````
+````
+npm start
 ````
 
 ### Screenshots
 
-! [main](./assets/images/main.png)
+! [Preview](assets/images/main.png)
 
-! [modal](./assets/images/modal.png)
+! [modal](assets/images/modal.png)
 
-! [print](./assets/images/print.png)
+! [print](assets/images/print.png)
